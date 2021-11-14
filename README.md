@@ -25,7 +25,6 @@
         <li>Film</li>
         <ul>
             <li> <a href="https://www.imdb.com/title/tt0319061/">Big Fish</a></li>
-
             <li> <a href="https://www.imdb.com/title/tt7286456/">Joker</a></li>
             <li>The Prestige</li>
             <li>Pulp Fuction</li>
@@ -36,7 +35,3 @@
         </ul>
     </ol></div>
 <h3><strong>Big Fish</strong></h3>
-
-
-<img src="https://i0.wp.com/filmloverss.com/wp-content/uploads/2016/01/big-fish-gorsel-filmloverss.jpg?fit=720%2C400&ssl=1" alt="Big Fish">
-<p>Büyük Balık, Tim Burton'ın yönettiği John August'un yazdığı 2003, ABD yapımı fantastik drama filmidir.</p>
