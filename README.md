@@ -1,5 +1,3 @@
-# HTML-dev-2
-Kişisel Sayfamızı Detaylandırmaya Devam Etmek
 <h1>Beste N. Görez</h1>
 <!--h1 kodu en büyük fontla  ismimi yazdım-->
 
